@@ -1,0 +1,5 @@
+*.o
+*.sqlite
+tgterm
+apikey.txt
+TODO.md
