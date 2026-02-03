@@ -35,7 +35,7 @@ MacOS will prompt you to grant these on first use. If screenshots or keystrokes 
 To setup the project:
 
 1. Create a Telegram bot via [@BotFather](https://t.me/botfather) and get the API key.
-2. Install `libcurl` and `libsqlite3`.
+2. Install `libcurl` and `libsqlite3`. The project also uses my own `botlib` but it is included directly into the project, so no need to install anything.
 3. Build with `make` and run:
 
 ```
